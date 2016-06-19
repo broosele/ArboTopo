@@ -1,5 +1,8 @@
-"""
+""" ArboTopo - quantity
 
+This class represents a physical quantity.
+
+copyright (C) 2016 Bram Rooseleer
 """
 from functools import total_ordering
 
